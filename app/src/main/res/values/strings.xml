@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Plant Disease Detection</string>
+    <string name="splash_footer">Developed by SaIT Students</string>
+    <string name="main_footer">Tap the plus icon to take a photo of the plant leaf. Then click next make the prediction.</string>
+    <string name="plant_name_format">Plant Name: %1$s</string>
+    <string name="plant_status_format">Plant Status: %1$s</string>
+</resources>
